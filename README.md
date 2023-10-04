@@ -1,6 +1,6 @@
 
-![Screenshot 2023-10-04 224831](https://github.com/azmii911/pexel-clone/assets/72024933/3a930fc3-75a7-4839-87e9-6be1be181fb4)
 ![Screenshot_1](https://github.com/azmii911/pexel-clone/assets/72024933/381e6d6b-3eee-40c6-b8ba-5fda3676e5fb)
+![Screenshot 2023-10-04 224831](https://github.com/azmii911/pexel-clone/assets/72024933/3a930fc3-75a7-4839-87e9-6be1be181fb4)
 ![Screenshot 2023-10-04 224847](https://github.com/azmii911/pexel-clone/assets/72024933/0b2a61cc-6d86-4f15-bc03-a6bac72879c2)
 
 
